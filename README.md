@@ -1,18 +1,22 @@
 <div align="center">
-# 🚀 Redballv2
-### *High-Performance Interactive Web Experience & Canvas Engine*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-HTML-f59e0b?style=for-the-badge)](https://github.com/hsinidev)
-  [![Framework](https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Redballv2&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Redballv2 Header Banner" />
+
+  <h1>🚀 Redballv2</h1>
+  <p><em>High-Performance Interactive Web Experience & Canvas Engine</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-HTML-e34c26?style=for-the-badge" alt="Language: HTML" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge" alt="Framework: WebGL / HTML5 Canvas" /></a>
+    <a href="https://github.com/hsinidev/redballv2"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Redballv2** delivers a fast, responsive, and cross-platform browser experience built with **HTML** and hardware-accelerated canvas rendering.
@@ -25,6 +29,7 @@
 - **Local Storage State**: Automatic session persistence and state restoration.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `HTML`
@@ -32,116 +37,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# Redballv2 - Play Online for Free
-
-## Overview
-Play Redballv2 online for free. Unblocked and available on all devices. Experience the best Redballv2 gameplay now!
-
-### Game Details & Guide
-Redballv2 Guide
-
-
-
-Game Overview
-
-
-The Red Ball game, also known as Red Ball v2, is a classic browser-based game developed by Kongregate. Players control a red ball that must navigate through a grid of squares without being caught by the opponent's red balls.
-
-
-
-How to Play
-
-
-In Redballv2, players use their mouse to move the red ball across the screen. The objective is to get as many points as possible by hitting multiple red balls in a row before your opponent does.
-
-
-
-Controls and Objective
-
-
-
-Mouse Controls:
- Use your left and right mouse buttons to control the movement of the red ball.
-
-
-
-Get as many points as possible by hitting multiple red balls in a row before your opponent does.
-
-
-
-Tips and Tricks for Success
-
-
-To increase your chances of success, try the following tips:
-
-
-
-    
-Use your mouse to position yourself between two red balls at all times.
-
-    
-Hitting multiple red balls in a row will earn you more points than not hitting one.
-
-    
-Don't get too close to the edge of the screen, as this can make it difficult to hit multiple red balls in a row.
-
-
-
-
-
-Why You Should Play It
-
-
-The Red Ball game is an addictive and entertaining browser-based game that's perfect for players looking for a fun challenge. The game requires strategy and skill to play, making it appealing to fans of puzzle games.
-
-
-Additionally, the game has a high replay value due to its randomly generated levels and increasing difficulty over time.
-
-
-
-Browser Requirements
-
-
-The Red Ball game is compatible with most modern web browsers. However, please note that you may experience some issues with slower internet connections or low-resolution displays.
-
-
-
-Tips for Beginners
-
-
-
- Make sure to adjust your mouse settings and sensitivity before starting the game.
-
-
-
-Start by playing against AI opponents at a lower difficulty level, then gradually increase the difficulty as you improve your skills.
-
-
-
-Conclusion
-
-
-The Red Ball game is an engaging and challenging browser-based game that's sure to provide hours of entertainment. With its simple controls and addictive gameplay, it's a must-play for fans of puzzle games. Give it a try today!
-
-## Technical Specifications
-- **Technology**: Flash (Emulated by Ruffle)
-- **Compatible Browsers**: Chrome, Firefox, Safari, Edge
-- **Architecture**: Client-side execution (HTML5/JavaScript)
-
-## About the Project
-This game is part of a curated collection of high-performance web games maintained by **HSINI MOHAMED**. The project focuses on providing unblocked, fast-loading, and responsive gaming experiences to users worldwide.
-
-**HSINI MOHAMED**
-- **Email**: [hsini.web@gmail.com](mailto:hsini.web@gmail.com)
-- **Website**: [https://unlockedgames.io](https://unlockedgames.io)
-- **Portfolio**: [Explore more games](https://unlockedgames.io)
-
----
-© 2024 **HSINI MOHAMED**. All games are hosted and maintained for educational and entertainment purposes.
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
